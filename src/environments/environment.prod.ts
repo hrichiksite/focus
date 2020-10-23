@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  var firebaseConfig = {
+  firebaseConfig = {
     apiKey: "AIzaSyC1CwiSB2q9itgPtydA_0mAb7NQTPaonZU",
     authDomain: "meetnow-prod-854d1.firebaseapp.com",
     databaseURL: "https://meetnow-prod-854d1.firebaseio.com",
